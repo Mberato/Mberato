@@ -6,5 +6,4 @@ y=int(input())
 if  t=='a':
 	print(x*y)
 elif t=='e':
-	ptint(2*(y+x))
-
+	print(2*(y+x))
